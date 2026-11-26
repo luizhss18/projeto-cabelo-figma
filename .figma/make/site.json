@@ -1,6 +1,5 @@
 {
-  "title": "Projeto Integrador",
-  "description": "Explore and visualize different hairstyles using 3D models tailored to your facial features, while receiving personalized hair care recommendations.",
+  "description": "A aplicação oferece a mesma experiência do projeto original, atendendo usuários que precisam de suas funcionalidades em uma versão feita com HTML, CSS, JavaScript e PHP.",
   "robots": {
     "index": false
   },
