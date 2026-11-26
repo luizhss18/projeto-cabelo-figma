@@ -1,0 +1,11 @@
+{
+  "title": "Projeto Integrador",
+  "description": "Explore and visualize different hairstyles using 3D models tailored to your facial features, while receiving personalized hair care recommendations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
